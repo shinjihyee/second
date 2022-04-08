@@ -6,7 +6,7 @@ public class Ex02 {
 		// TODO Auto-generated method stub
 		
 		
-		System.out.println("Hello wolrd~!");
+		System.out.println("æ»≥Á«œººø‰!");
 
 	}
 
